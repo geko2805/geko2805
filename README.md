@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Gethin...+;Software+engineer...;+Web+enthusisast...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Gethin...+;Software+engineer...;+Web+enthusisast...;+Digital+Designer...)](https://git.io/typing-svg)
+
+I am a Digital Design Graduate who recently completed a Full-stack development bootcamp with Northcoders.
+
+My design background inspires me to create design-centric and user-focused solutions across a range of technologies.
+
+I am currently looking for a full-time position as a Junior Developer!
+
 
 <!--
 **geko2805/geko2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
